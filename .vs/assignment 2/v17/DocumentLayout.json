@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\niue\\Desktop\\assignment2_code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C80FBF17-664F-4665-85B8-C9463C10E030}|assignment 2.vcxproj|C:\\Users\\niue\\Desktop\\assignment2_code\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C80FBF17-664F-4665-85B8-C9463C10E030}|assignment 2.vcxproj|solutionrelative:User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80FBF17-664F-4665-85B8-C9463C10E030}|assignment 2.vcxproj|C:\\Users\\niue\\Desktop\\assignment2_code\\Post.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C80FBF17-664F-4665-85B8-C9463C10E030}|assignment 2.vcxproj|solutionrelative:Post.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80FBF17-664F-4665-85B8-C9463C10E030}|assignment 2.vcxproj|C:\\Users\\niue\\Desktop\\assignment2_code\\Post.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C80FBF17-664F-4665-85B8-C9463C10E030}|assignment 2.vcxproj|solutionrelative:Post.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80FBF17-664F-4665-85B8-C9463C10E030}|assignment 2.vcxproj|C:\\Users\\niue\\Desktop\\assignment2_code\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C80FBF17-664F-4665-85B8-C9463C10E030}|assignment 2.vcxproj|solutionrelative:User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80FBF17-664F-4665-85B8-C9463C10E030}|assignment 2.vcxproj|C:\\Users\\niue\\Desktop\\assignment2_code\\Instagram340.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C80FBF17-664F-4665-85B8-C9463C10E030}|assignment 2.vcxproj|solutionrelative:Instagram340.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80FBF17-664F-4665-85B8-C9463C10E030}|assignment 2.vcxproj|C:\\Users\\niue\\Desktop\\assignment2_code\\linkedbagds\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C80FBF17-664F-4665-85B8-C9463C10E030}|assignment 2.vcxproj|solutionrelative:linkedbagds\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80FBF17-664F-4665-85B8-C9463C10E030}|assignment 2.vcxproj|C:\\Users\\niue\\Desktop\\assignment2_code\\linkedbagds\\LinkedBag.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C80FBF17-664F-4665-85B8-C9463C10E030}|assignment 2.vcxproj|solutionrelative:linkedbagds\\LinkedBag.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80FBF17-664F-4665-85B8-C9463C10E030}|assignment 2.vcxproj|C:\\Users\\niue\\Desktop\\assignment2_code\\InstagramMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C80FBF17-664F-4665-85B8-C9463C10E030}|assignment 2.vcxproj|solutionrelative:InstagramMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C80FBF17-664F-4665-85B8-C9463C10E030}|assignment 2.vcxproj|C:\\Users\\niue\\Desktop\\assignment2_code\\linkedbagds\\LinkedBag.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C80FBF17-664F-4665-85B8-C9463C10E030}|assignment 2.vcxproj|solutionrelative:linkedbagds\\LinkedBag.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LinkedBag.h",
+              "DocumentMoniker": "C:\\Users\\niue\\Desktop\\assignment2_code\\LinkedBagDS\\LinkedBag.h",
+              "RelativeDocumentMoniker": "LinkedBagDS\\LinkedBag.h",
+              "ToolTip": "C:\\Users\\niue\\Desktop\\assignment2_code\\LinkedBagDS\\LinkedBag.h",
+              "RelativeToolTip": "LinkedBagDS\\LinkedBag.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-07T18:33:31.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Post.h",
+              "DocumentMoniker": "C:\\Users\\niue\\Desktop\\assignment2_code\\Post.h",
+              "RelativeDocumentMoniker": "Post.h",
+              "ToolTip": "C:\\Users\\niue\\Desktop\\assignment2_code\\Post.h",
+              "RelativeToolTip": "Post.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-07T18:32:41.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Post.cpp",
+              "DocumentMoniker": "C:\\Users\\niue\\Desktop\\assignment2_code\\Post.cpp",
+              "RelativeDocumentMoniker": "Post.cpp",
+              "ToolTip": "C:\\Users\\niue\\Desktop\\assignment2_code\\Post.cpp",
+              "RelativeToolTip": "Post.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T18:32:34.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.h",
+              "DocumentMoniker": "C:\\Users\\niue\\Desktop\\assignment2_code\\User.h",
+              "RelativeDocumentMoniker": "User.h",
+              "ToolTip": "C:\\Users\\niue\\Desktop\\assignment2_code\\User.h",
+              "RelativeToolTip": "User.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-07T18:32:21.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cpp",
+              "DocumentMoniker": "C:\\Users\\niue\\Desktop\\assignment2_code\\User.cpp",
+              "RelativeDocumentMoniker": "User.cpp",
+              "ToolTip": "C:\\Users\\niue\\Desktop\\assignment2_code\\User.cpp",
+              "RelativeToolTip": "User.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T18:32:16.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Instagram340.h",
+              "DocumentMoniker": "C:\\Users\\niue\\Desktop\\assignment2_code\\Instagram340.h",
+              "RelativeDocumentMoniker": "Instagram340.h",
+              "ToolTip": "C:\\Users\\niue\\Desktop\\assignment2_code\\Instagram340.h",
+              "RelativeToolTip": "Instagram340.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-07T18:32:14.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Node.cpp",
+              "DocumentMoniker": "C:\\Users\\niue\\Desktop\\assignment2_code\\LinkedBagDS\\Node.cpp",
+              "RelativeDocumentMoniker": "LinkedBagDS\\Node.cpp",
+              "ToolTip": "C:\\Users\\niue\\Desktop\\assignment2_code\\LinkedBagDS\\Node.cpp",
+              "RelativeToolTip": "LinkedBagDS\\Node.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T18:29:59.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LinkedBag.cpp",
+              "DocumentMoniker": "C:\\Users\\niue\\Desktop\\assignment2_code\\LinkedBagDS\\LinkedBag.cpp",
+              "RelativeDocumentMoniker": "LinkedBagDS\\LinkedBag.cpp",
+              "ToolTip": "C:\\Users\\niue\\Desktop\\assignment2_code\\LinkedBagDS\\LinkedBag.cpp",
+              "RelativeToolTip": "LinkedBagDS\\LinkedBag.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T18:30:50.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InstagramMain.cpp",
+              "DocumentMoniker": "C:\\Users\\niue\\Desktop\\assignment2_code\\InstagramMain.cpp",
+              "RelativeDocumentMoniker": "InstagramMain.cpp",
+              "ToolTip": "C:\\Users\\niue\\Desktop\\assignment2_code\\InstagramMain.cpp",
+              "RelativeToolTip": "InstagramMain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T18:29:03.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

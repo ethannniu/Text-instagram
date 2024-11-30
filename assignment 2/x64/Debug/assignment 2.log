@@ -1,0 +1,323 @@
+﻿  Instagram340.cpp
+C:\Users\niue\Desktop\assignment2_code\Post.h(11,22): error C2039: '_V2': is not a member of 'std::chrono'
+  (compiling source file 'Instagram340.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\__msvc_chrono.hpp(791,11):
+      see declaration of 'std::chrono'
+  
+C:\Users\niue\Desktop\assignment2_code\Post.h(11,22): error C3083: '_V2': the symbol to the left of a '::' must be a type
+  (compiling source file 'Instagram340.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244:         with
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244:         [
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244:             _Rep=double
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244:         ]
+  (compiling source file 'Instagram340.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\LinkedBag.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'Instagram340.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\LinkedBag.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'Instagram340.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\BagInterface.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'Instagram340.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'Instagram340.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'Instagram340.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'Instagram340.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'Instagram340.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(10,17): error C2995: 'Node<ItemType>::Node(void)': function template has already been defined
+  (compiling source file 'Instagram340.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(17,4):
+      see declaration of 'Node<ItemType>::Node'
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(15,17): error C2995: 'Node<ItemType>::Node(const ItemType &)': function template has already been defined
+  (compiling source file 'Instagram340.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(18,4):
+      see declaration of 'Node<ItemType>::Node'
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(20,17): error C2995: 'Node<ItemType>::Node(const ItemType &,Node<ItemType> *)': function template has already been defined
+  (compiling source file 'Instagram340.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(19,4):
+      see declaration of 'Node<ItemType>::Node'
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(26,22): error C2995: 'void Node<ItemType>::setItem(const ItemType &)': function template has already been defined
+  (compiling source file 'Instagram340.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(20,9):
+      see declaration of 'Node<ItemType>::setItem'
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(32,22): error C2995: 'void Node<ItemType>::setNext(Node<ItemType> *)': function template has already been defined
+  (compiling source file 'Instagram340.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(21,9):
+      see declaration of 'Node<ItemType>::setNext'
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(38,26): error C2995: 'ItemType Node<ItemType>::getItem(void) const': function template has already been defined
+  (compiling source file 'Instagram340.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(22,13):
+      see declaration of 'Node<ItemType>::getItem'
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(44,33): error C2995: 'Node<ItemType> *Node<ItemType>::getNext(void) const': function template has already been defined
+  (compiling source file 'Instagram340.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(23,20):
+      see declaration of 'Node<ItemType>::getNext'
+  
+  InstagramMain.cpp
+C:\Users\niue\Desktop\assignment2_code\Post.h(11,22): error C2039: '_V2': is not a member of 'std::chrono'
+  (compiling source file 'InstagramMain.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\__msvc_chrono.hpp(791,11):
+      see declaration of 'std::chrono'
+  
+C:\Users\niue\Desktop\assignment2_code\Post.h(11,22): error C3083: '_V2': the symbol to the left of a '::' must be a type
+  (compiling source file 'InstagramMain.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244:         with
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244:         [
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244:             _Rep=double
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244:         ]
+  (compiling source file 'InstagramMain.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\LinkedBag.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'InstagramMain.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\LinkedBag.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'InstagramMain.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\BagInterface.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'InstagramMain.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'InstagramMain.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'InstagramMain.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'InstagramMain.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'InstagramMain.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(10,17): error C2995: 'Node<ItemType>::Node(void)': function template has already been defined
+  (compiling source file 'InstagramMain.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(17,4):
+      see declaration of 'Node<ItemType>::Node'
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(15,17): error C2995: 'Node<ItemType>::Node(const ItemType &)': function template has already been defined
+  (compiling source file 'InstagramMain.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(18,4):
+      see declaration of 'Node<ItemType>::Node'
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(20,17): error C2995: 'Node<ItemType>::Node(const ItemType &,Node<ItemType> *)': function template has already been defined
+  (compiling source file 'InstagramMain.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(19,4):
+      see declaration of 'Node<ItemType>::Node'
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(26,22): error C2995: 'void Node<ItemType>::setItem(const ItemType &)': function template has already been defined
+  (compiling source file 'InstagramMain.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(20,9):
+      see declaration of 'Node<ItemType>::setItem'
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(32,22): error C2995: 'void Node<ItemType>::setNext(Node<ItemType> *)': function template has already been defined
+  (compiling source file 'InstagramMain.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(21,9):
+      see declaration of 'Node<ItemType>::setNext'
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(38,26): error C2995: 'ItemType Node<ItemType>::getItem(void) const': function template has already been defined
+  (compiling source file 'InstagramMain.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(22,13):
+      see declaration of 'Node<ItemType>::getItem'
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(44,33): error C2995: 'Node<ItemType> *Node<ItemType>::getNext(void) const': function template has already been defined
+  (compiling source file 'InstagramMain.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(23,20):
+      see declaration of 'Node<ItemType>::getNext'
+  
+  LinkedBag.cpp
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\LinkedBag.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\LinkedBag.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'linkedbagds/LinkedBag.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\BagInterface.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'linkedbagds/LinkedBag.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'linkedbagds/LinkedBag.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'linkedbagds/LinkedBag.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'linkedbagds/LinkedBag.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'linkedbagds/LinkedBag.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.cpp(10,17): error C2995: 'Node<ItemType>::Node(void)': function template has already been defined
+  (compiling source file 'linkedbagds/LinkedBag.cpp')
+      C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.h(17,4):
+      see declaration of 'Node<ItemType>::Node'
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.cpp(15,17): error C2995: 'Node<ItemType>::Node(const ItemType &)': function template has already been defined
+  (compiling source file 'linkedbagds/LinkedBag.cpp')
+      C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.h(18,4):
+      see declaration of 'Node<ItemType>::Node'
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.cpp(20,17): error C2995: 'Node<ItemType>::Node(const ItemType &,Node<ItemType> *)': function template has already been defined
+  (compiling source file 'linkedbagds/LinkedBag.cpp')
+      C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.h(19,4):
+      see declaration of 'Node<ItemType>::Node'
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.cpp(26,22): error C2995: 'void Node<ItemType>::setItem(const ItemType &)': function template has already been defined
+  (compiling source file 'linkedbagds/LinkedBag.cpp')
+      C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.h(20,9):
+      see declaration of 'Node<ItemType>::setItem'
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.cpp(32,22): error C2995: 'void Node<ItemType>::setNext(Node<ItemType> *)': function template has already been defined
+  (compiling source file 'linkedbagds/LinkedBag.cpp')
+      C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.h(21,9):
+      see declaration of 'Node<ItemType>::setNext'
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.cpp(38,26): error C2995: 'ItemType Node<ItemType>::getItem(void) const': function template has already been defined
+  (compiling source file 'linkedbagds/LinkedBag.cpp')
+      C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.h(22,13):
+      see declaration of 'Node<ItemType>::getItem'
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.cpp(44,33): error C2995: 'Node<ItemType> *Node<ItemType>::getNext(void) const': function template has already been defined
+  (compiling source file 'linkedbagds/LinkedBag.cpp')
+      C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.h(23,20):
+      see declaration of 'Node<ItemType>::getNext'
+  
+  Node.cpp
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'linkedbagds/Node.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'linkedbagds/Node.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.cpp(10,17): error C2995: 'Node<ItemType>::Node(void)': function template has already been defined
+      C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.h(17,4):
+      see declaration of 'Node<ItemType>::Node'
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.cpp(15,17): error C2995: 'Node<ItemType>::Node(const ItemType &)': function template has already been defined
+      C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.h(18,4):
+      see declaration of 'Node<ItemType>::Node'
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.cpp(20,17): error C2995: 'Node<ItemType>::Node(const ItemType &,Node<ItemType> *)': function template has already been defined
+      C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.h(19,4):
+      see declaration of 'Node<ItemType>::Node'
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.cpp(26,22): error C2995: 'void Node<ItemType>::setItem(const ItemType &)': function template has already been defined
+      C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.h(20,9):
+      see declaration of 'Node<ItemType>::setItem'
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.cpp(32,22): error C2995: 'void Node<ItemType>::setNext(Node<ItemType> *)': function template has already been defined
+      C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.h(21,9):
+      see declaration of 'Node<ItemType>::setNext'
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.cpp(38,26): error C2995: 'ItemType Node<ItemType>::getItem(void) const': function template has already been defined
+      C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.h(22,13):
+      see declaration of 'Node<ItemType>::getItem'
+  
+C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.cpp(44,33): error C2995: 'Node<ItemType> *Node<ItemType>::getNext(void) const': function template has already been defined
+      C:\Users\niue\Desktop\assignment2_code\linkedbagds\Node.h(23,20):
+      see declaration of 'Node<ItemType>::getNext'
+  
+  Post.cpp
+C:\Users\niue\Desktop\assignment2_code\Post.h(11,22): error C2039: '_V2': is not a member of 'std::chrono'
+  (compiling source file 'Post.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\__msvc_chrono.hpp(791,11):
+      see declaration of 'std::chrono'
+  
+C:\Users\niue\Desktop\assignment2_code\Post.h(11,22): error C3083: '_V2': the symbol to the left of a '::' must be a type
+  (compiling source file 'Post.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244:         with
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244:         [
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244:             _Rep=double
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244:         ]
+  User.cpp
+C:\Users\niue\Desktop\assignment2_code\Post.h(11,22): error C2039: '_V2': is not a member of 'std::chrono'
+  (compiling source file 'User.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\__msvc_chrono.hpp(791,11):
+      see declaration of 'std::chrono'
+  
+C:\Users\niue\Desktop\assignment2_code\Post.h(11,22): error C3083: '_V2': the symbol to the left of a '::' must be a type
+  (compiling source file 'User.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244:         with
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244:         [
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244:             _Rep=double
+C:\Users\niue\Desktop\assignment2_code\Post.cpp(41,23): warning C4244:         ]
+  (compiling source file 'User.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\LinkedBag.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'User.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\LinkedBag.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'User.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\BagInterface.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'User.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'User.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'User.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'User.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'User.cpp')
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(10,17): error C2995: 'Node<ItemType>::Node(void)': function template has already been defined
+  (compiling source file 'User.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(17,4):
+      see declaration of 'Node<ItemType>::Node'
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(15,17): error C2995: 'Node<ItemType>::Node(const ItemType &)': function template has already been defined
+  (compiling source file 'User.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(18,4):
+      see declaration of 'Node<ItemType>::Node'
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(20,17): error C2995: 'Node<ItemType>::Node(const ItemType &,Node<ItemType> *)': function template has already been defined
+  (compiling source file 'User.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(19,4):
+      see declaration of 'Node<ItemType>::Node'
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(26,22): error C2995: 'void Node<ItemType>::setItem(const ItemType &)': function template has already been defined
+  (compiling source file 'User.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(20,9):
+      see declaration of 'Node<ItemType>::setItem'
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(32,22): error C2995: 'void Node<ItemType>::setNext(Node<ItemType> *)': function template has already been defined
+  (compiling source file 'User.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(21,9):
+      see declaration of 'Node<ItemType>::setNext'
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(38,26): error C2995: 'ItemType Node<ItemType>::getItem(void) const': function template has already been defined
+  (compiling source file 'User.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(22,13):
+      see declaration of 'Node<ItemType>::getItem'
+  
+C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.cpp(44,33): error C2995: 'Node<ItemType> *Node<ItemType>::getNext(void) const': function template has already been defined
+  (compiling source file 'User.cpp')
+      C:\Users\niue\Desktop\assignment2_code\LinkedBagDS\Node.h(23,20):
+      see declaration of 'Node<ItemType>::getNext'
+  
+  Generating Code...

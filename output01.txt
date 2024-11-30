@@ -1,0 +1,387 @@
+Welcome to Instagram 340!
+
+Enter name:Ethan 
+Email: ethan@gmail.com
+Bio: 34
+Password: pass2
+Profile Picture: wewe
+Choose account type: 
+1. Personal
+2. Creator
+2
+CREATOR
+---------------------------------------
+Instagram 340 menu
+1: create account
+2: choose account/ login
+3: display users
+0: logout
+Choose a number: 1
+Enter name:wert
+Email: qwer
+Bio: qwer
+Password: qwer
+Profile Picture: qwer
+Choose account type: 
+1. Personal
+2. Creator
+5
+not a valid choice
+
+---------------------------------------
+Instagram 340 menu
+1: create account
+2: choose account/ login
+3: display users
+0: logout
+Choose a number: 5
+Invalid choice. Please try again.
+
+---------------------------------------
+Instagram 340 menu
+1: create account
+2: choose account/ login
+3: display users
+0: logout
+Choose a number: 1
+Enter name:qewr
+Email: qwer
+Bio: qwer
+Password: qwer
+Profile Picture: qwer
+Choose account type: 
+1. Personal
+2. Creator
+1
+PSERONAL
+---------------------------------------
+Instagram 340 menu
+1: create account
+2: choose account/ login
+3: display users
+0: logout
+Choose a number: 3
+You have 2 users:
+
+Account type: Creator
+username: Ethan
+email: ethan@gmail.com
+bio: 34
+profilePicture: wewe
+
+
+Account type: Personal
+username: qewr
+email: qwer
+bio: qwer
+profilePicture: qwer
+
+
+---------------------------------------
+Instagram 340 menu
+1: create account
+2: choose account/ login
+3: display users
+0: logout
+Choose a number: 2
+Choose a number: 
+5
+Error: number too big
+---------------------------------------
+Instagram 340 menu
+1: create account
+2: choose account/ login
+3: display users
+0: logout
+Choose a number: 2
+Choose a number: 
+1
+
+ Hi, Ethan , what would you like to do:
+1. Display Profile
+2. Modify Password
+3. Create Post
+4. Display All Posts
+5. Display Kth Post
+6. Modify Post
+7. Delete Post
+8. Edit Post
+9. Monitize Posts
+0. Logout
+Choice: 1
+
+Account type: Creator
+username: Ethan
+email: ethan@gmail.com
+bio: 34
+profilePicture: wewe
+
+ Hi, Ethan , what would you like to do:
+1. Display Profile
+2. Modify Password
+3. Create Post
+4. Display All Posts
+5. Display Kth Post
+6. Modify Post
+7. Delete Post
+8. Edit Post
+9. Monitize Posts
+0. Logout
+Choice: 3
+Choose post type:
+1. Reel
+2. Story
+2
+creating story
+Debug: _likes initialized to 0
+sTORY INPUT
+Title:
+I LOVE WALKING MY DOG
+URL: 
+qweqwe
+Duration: 
+34
+Debug: _likes initialized to 0
+
+ Hi, Ethan , what would you like to do:
+1. Display Profile
+2. Modify Password
+3. Create Post
+4. Display All Posts
+5. Display Kth Post
+6. Modify Post
+7. Delete Post
+8. Edit Post
+9. Monitize Posts
+0. Logout
+Choice: 4
+You have 1 posts:
+Story
+Title: I LOVE WALKING MY DOG
+Duration: 34
+likes: 0
+URL: qweqwe
+Time left: 86205
+
+ Hi, Ethan , what would you like to do:
+1. Display Profile
+2. Modify Password
+3. Create Post
+4. Display All Posts
+5. Display Kth Post
+6. Modify Post
+7. Delete Post
+8. Edit Post
+9. Monitize Posts
+0. Logout
+Choice: 8
+Choose Value K:
+1
+Editing post...
+Filter, music, stickers, and effects have been added
+ Hi, Ethan , what would you like to do:
+1. Display Profile
+2. Modify Password
+3. Create Post
+4. Display All Posts
+5. Display Kth Post
+6. Modify Post
+7. Delete Post
+8. Edit Post
+9. Monitize Posts
+0. Logout
+Choice: 3
+Choose post type:
+1. Reel
+2. Story
+1
+creating reel
+Debug: _likes initialized to 0
+REEL INPUT
+Title:
+dropped the dog
+URL: 
+qwerty  
+Duration: 
+86
+Debug: _likes initialized to 0
+
+ Hi, Ethan , what would you like to do:
+1. Display Profile
+2. Modify Password
+3. Create Post
+4. Display All Posts
+5. Display Kth Post
+6. Modify Post
+7. Delete Post
+8. Edit Post
+9. Monitize Posts
+0. Logout
+Choice: 4
+You have 2 posts:
+Story
+Title: I LOVE WALKING MY DOG
+Duration: 34
+likes: 0
+URL: qweqwe
+Time left: 86007
+REEL
+Title: dropped the dog
+Duration: 86
+likes: 0
+URL: qwerty
+
+ Hi, Ethan , what would you like to do:
+1. Display Profile
+2. Modify Password
+3. Create Post
+4. Display All Posts
+5. Display Kth Post
+6. Modify Post
+7. Delete Post
+8. Edit Post
+9. Monitize Posts
+0. Logout
+Choice: 8
+Choose Value K:
+2
+Editing post...
+added filter, AR effects, and music
+ Hi, Ethan , what would you like to do:
+1. Display Profile
+2. Modify Password
+3. Create Post
+4. Display All Posts
+5. Display Kth Post
+6. Modify Post
+7. Delete Post
+8. Edit Post
+9. Monitize Posts
+0. Logout
+Choice: 9
+Monetized all posts.
+
+ Hi, Ethan , what would you like to do:
+1. Display Profile
+2. Modify Password
+3. Create Post
+4. Display All Posts
+5. Display Kth Post
+6. Modify Post
+7. Delete Post
+8. Edit Post
+9. Monitize Posts
+0. Logout
+Choice: 0
+Logging you out.
+
+---------------------------------------
+Instagram 340 menu
+1: create account
+2: choose account/ login
+3: display users
+0: logout
+Choose a number: 3
+You have 2 users:
+
+Account type: Creator
+username: Ethan
+email: ethan@gmail.com
+bio: 34
+profilePicture: wewe
+
+
+Account type: Personal
+username: qewr
+email: qwer
+bio: qwer
+profilePicture: qwer
+
+
+---------------------------------------
+Instagram 340 menu
+1: create account
+2: choose account/ login
+3: display users
+0: logout
+Choose a number: 2
+Choose a number: 
+2
+
+ Hi, qewr, what would you like to do:
+1. Display Profile
+2. Modify Password
+3. Create Post
+4. Display All Posts
+5. Display Kth Post
+6. Modify Post
+7. Delete Post
+8. Edit Post
+9. Monitize Posts
+0. Logout
+Choice: 4
+You have 0 posts:
+
+ Hi, qewr, what would you like to do:
+1. Display Profile
+2. Modify Password
+3. Create Post
+4. Display All Posts
+5. Display Kth Post
+6. Modify Post
+7. Delete Post
+8. Edit Post
+9. Monitize Posts
+0. Logout
+Choice: 3
+Choose post type:
+1. Reel
+2. Story
+2
+creating story
+Debug: _likes initialized to 0
+sTORY INPUT
+Title:
+yea
+URL: 
+qwer
+Duration: 
+12
+Debug: _likes initialized to 0
+
+ Hi, qewr, what would you like to do:
+1. Display Profile
+2. Modify Password
+3. Create Post
+4. Display All Posts
+5. Display Kth Post
+6. Modify Post
+7. Delete Post
+8. Edit Post
+9. Monitize Posts
+0. Logout
+Choice: 9
+This account is unable to monetize posts because it's a personal account
+
+ Hi, qewr, what would you like to do:
+1. Display Profile
+2. Modify Password
+3. Create Post
+4. Display All Posts
+5. Display Kth Post
+6. Modify Post
+7. Delete Post
+8. Edit Post
+9. Monitize Posts
+0. Logout
+Choice: 0
+Logging you out.
+
+---------------------------------------
+Instagram 340 menu
+1: create account
+2: choose account/ login
+3: display users
+0: logout
+Choose a number: 0
+Logging you out.
